@@ -13,8 +13,6 @@ This project presents a comprehensive analysis of road construction projects und
 - ✅ Visualize data using **Pivot Tables** and **Charts**
 - ✅ Provide **insights** to track PMGSY implementation progress
 
----
-
 ## 📂 Dataset Overview
 
 File: `roadconstruction.csv`

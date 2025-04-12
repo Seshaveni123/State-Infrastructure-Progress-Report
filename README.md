@@ -62,8 +62,7 @@ File: `roadconstruction.csv`
 ## 🛠️ Tools Used
 
 - **Microsoft Excel** – Pivot Tables, Charts, and Calculated Fields
-- **Python (Pandas, Matplotlib)** – Data manipulation and visualization
-- **Jupyter Notebook** – Analysis scripts and insights
+
 - **GitHub** – Project versioning and sharing
 
 ---

@@ -55,7 +55,7 @@ File: `roadconstruction.csv`
 - 📏 **Bar Chart**: Completion rate across states
 - 📐 **Table View**: Average road length per project
 
-*(Saved in `/charts/` folder if generated in code)*
+
 
 ---
 

@@ -45,10 +45,6 @@ File: `roadconstruction.csv`
 - **Values**:
   - `LENGTH_OF_ROAD_WORK_SANCTIONED_KM` → Sum
   - `LENGTH_OF_ROAD_WORK_COMPLETED_KM` → Sum
-- Add Calculated Field:
-
----
-
 ## 📊 Sample Visuals
 
 - 🔘 **Donut Chart**: Proportion of sanctioned projects by state
